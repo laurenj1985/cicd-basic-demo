@@ -1,1 +1,3 @@
-Werkzeug==2.2.2
+Flask==3.0.0
+Werkzeug==3.0.1
+Pytest==7.4.3
